@@ -19,7 +19,7 @@ You can catch me in various corners of the internet, trying to balance SQL queri
 - 🐦 **Twitter**: Tweeting random thoughts about SQL, data, and life’s mysteries (and possibly memes) at [@snippyguy](https://twitter.com/snippyguy)  
 - 💼 **LinkedIn**: Looking professionally serious (while secretly hoping someone brings up data jokes) at [LinkedIn](https://www.linkedin.com/in/snippyguy/)  
 - 🧑‍💻 **Stack Overflow**: Helping (and getting helped by) other coders who, like me, forgot a semicolon somewhere. [Check it out](https://stackoverflow.com/users/yourhandle)  
-- 📸 **Tableau Public**: Where my data visualizations and coffee pics get equal attention. [Follow along]([https://instagram.com/yourhandle](https://public.tableau.com/app/profile/snippyguy/vizzes))  
+- 📸 **Tableau Public**: Where my data visualizations and coffee pics get equal attention. [Follow along](https://public.tableau.com/app/profile/snippyguy/vizzes)  
 - 💬 **Slack**: Probably chatting about databases, Azure pipelines, or just the latest tech trends. Hit me up on [Slack](https://join.slack.com/yourhandle)
 
 ---
