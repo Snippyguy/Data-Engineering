@@ -24,7 +24,7 @@ You can catch me in various corners of the internet, trying to balance SQL queri
 
 ---
 
-## When I’m not in one of these places, I’m probably lost deep inside a SQL query or debugging some ETL process. Don’t worry, I’ll resurface... eventually!
+When I’m not in one of these places, I’m probably lost deep inside a SQL query or debugging some ETL process. Don’t worry, I’ll resurface... eventually!
 
 ---
 
